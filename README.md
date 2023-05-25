@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, python, unity3D..**
 
-- 📫 How to reach me **phoquethat+git@gmail.com**
+- 📫 How to reach me **k.allegrain+git@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/killian-allegrain/](https://www.linkedin.com/in/killian-allegrain/)
 
