@@ -15,7 +15,7 @@ Highly skilled and experienced Senior Application Developer with a strong backgr
 
 ## **Professional Experience**
 
-### **MadoXR | Senior Application Developer | 2022 - Present**
+### **MadoXR | Senior Application Developer | 2022 - Mar 2023**
 - Developed a live streaming platform and an NFT marketplace using Solidity, React, ExpressJS, Node.js, Web3.js, JavaScript, TheGraph, GraphQL, and WebRTC.
 - Implemented an NFT authentication system and integrated ReactJS (TypeScript) with Web3.js.
 - Led project planning and execution for new initiatives.
