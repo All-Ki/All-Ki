@@ -1,8 +1,8 @@
-# [ALLEGRAIN Killian]
+# ALLEGRAIN Killian
 **Senior Application Developer & Blockchain Specialist**
 
 **Contact Information:**
-- Email: k.allegrain@gmail.com
+- Email: k.allegrain+git@gmail.com
 - Phone: Available on request
 - LinkedIn: https://www.linkedin.com/in/killian-allegrain/
 
