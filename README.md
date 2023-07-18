@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/killian-allegrain/](https://www.linkedin.com/in/killian-allegrain/)
 
-- See my [resume](https://github.com/All-Ki/All-Ki/blob/1bc7dc69d3517d160c9f671dd019d27782604188/Resume.md)
+- See my [resume](Resume.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
