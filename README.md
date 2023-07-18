@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Killian</h1>
+<h1 align="center">👋  Hi , I'm Killian</h1>
 <h3 align="center">A passionnate fullstack developper always looking for new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=all-ki&label=Profile%20views&color=0e75b6&style=flat" alt="all-ki" /> </p>
