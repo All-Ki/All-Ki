@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=all-ki&label=Profile%20views&color=0e75b6&style=flat" alt="all-ki" /> </p>
 
-- 🔭 I’m currently working on a secret project ;) 
-
+- 🔭 I’m currently working on [a cool app for decentralised and encrypted communication](https://github.com/All-Ki/BitMessage)
 - 🌱 I’m currently learning **machine learning, computer intelligence in general**
 
 - 💬 Ask me about **react, python, unity3D..**
