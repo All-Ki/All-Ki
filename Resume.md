@@ -9,11 +9,20 @@
 ---
 
 ## **Profile**
-Highly skilled and experienced Senior Application Developer with a strong background in blockchain technologies and web development. Proven expertise in Solidity, JavaScript, TypeScript, and Python, with a deep understanding of frameworks such as Node.js, React.js, and Express. Demonstrated ability to lead teams, manage projects, and innovate in the blockchain space. Seeking to leverage my technical skills and leadership abilities in a challenging new role.
+Highly skilled and experienced FullStack Developer with a strong background in blockchain technologies and web development. Proven expertise in Solidity, JavaScript, TypeScript, and Python, with a deep understanding of frameworks such as Node.js, React.js, and Express. Demonstrated ability to lead teams, manage projects, and innovate in the blockchain space. Seeking to leverage my technical skills and leadership abilities in a challenging new role.
 
 ---
 
 ## **Professional Experience**
+
+### **BEEBUZZINESS | Senior Fullstack Developper | oct. 2023 - janv. 2025**
+ - Grenoble, Auvergne-Rhône-Alpes, France · HybrideGrenoble, Auvergne-Rhône-Alpes, France · Hybride
+ - Lead and developed a blockchain based electronic signature system
+ - Designed and implemented a blockchain-based document backup and signature validation system
+ - Implemented image and video processing pipelines on a microservices architecture
+ - Managed Cross Team initiatives impacting Auth , Data pipelines , and document storage
+ - Updated CI pipelines to speed up CD
+
 
 ### **MadoXR | Senior Application Developer | 2022 - Mar 2023**
 - Developed a live streaming platform and an NFT marketplace using Solidity, React, ExpressJS, Node.js, Web3.js, JavaScript, TheGraph, GraphQL, and WebRTC.
